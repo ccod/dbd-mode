@@ -17,7 +17,7 @@ This is a bit hacky as I am still rather unfamiliar with the right way to publis
 within `dotspacemacs/user-config`
 add `(load-file "~/.emacs,d/private/local/dbd-mode/dbdiagram-mode.el")`
 
-![demo of lang-mode](https://github.com/ccod/dbd-mode/syntax-demonstration.png)
+![demo of lang-mode](https://github.com/ccod/dbd-mode/blob/master/syntax-demonstration.png)
 
 ## TODO:
 - hook into the autocomplete mode
