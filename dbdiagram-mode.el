@@ -29,3 +29,4 @@
   (font-lock-fontify-buffer))
 
 (add-to-list 'auto-mode-alist '("\\.dbd\\'" . dbdiagram-mode))
+(add-to-list 'auto-mode-alist '("\\.dbml\\'" . dbdiagram-mode))
